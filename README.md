@@ -50,7 +50,7 @@
 * Dockerized application
 * Deployed on AWS EC2
 
-👉 Repo: https://github.com/yourusername/project1
+👉 Repo: https://github.com/Atul-Chavan-3755/React-ci-cd-Actions.git
 
 ---
 
@@ -59,7 +59,7 @@
 * Created VPC, EC2, ALB using Terraform
 * Infrastructure automation
 
-👉 Repo: (https://github.com/Atul-Chavan-3755/terraform-project.git)
+👉 Repo: https://github.com/Atul-Chavan-3755/terraform-project.git
 
 ---
 
@@ -69,14 +69,6 @@
 * Deployed and managed containers
 
 👉 Repo: https://github.com/yourusername/project3
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername\&show_icons=true\&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername\&layout=compact)
 
 ---
 
