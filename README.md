@@ -46,7 +46,7 @@
 
 ### 🔹 CI/CD Pipeline with GitHub Actions
 
-* Automated build & deployment of Node.js app
+* Automated build & deployment of React applications
 * Dockerized application
 * Deployed on AWS EC2
 
@@ -68,7 +68,7 @@
 * Containerized app using Docker
 * Deployed and managed containers
 
-👉 Repo: https://github.com/yourusername/project3
+👉 Repo: https://github.com/Atul-Chavan-3755/Docker-CI-CD-Project-.git
 
 ---
 
@@ -84,6 +84,7 @@
 
 * LinkedIn: www.linkedin.com/in/atul-chavan-2174b724b
 * Email: atulchavan200@gmail.com
+* Mo. no. 9146149036
 
 ---
 
