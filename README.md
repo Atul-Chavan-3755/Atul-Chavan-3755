@@ -59,7 +59,7 @@
 * Created VPC, EC2, ALB using Terraform
 * Infrastructure automation
 
-👉 Repo: https://github.com/yourusername/project2
+👉 Repo: (https://github.com/Atul-Chavan-3755/terraform-project.git)
 
 ---
 
