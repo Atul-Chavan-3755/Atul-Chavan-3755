@@ -2,7 +2,6 @@
 
 💻 DevOps Engineer | AWS Cloud | Linux | Networking  
 🚀 DevOps Engineer with hands-on experience in AWS, Terraform, Docker, and CI/CD pipelines. Skilled in automating infrastructure, managing cloud environments, and building scalable, reliable systems.  
-
 📍 Pune,(Maharastra)
 
 ---
