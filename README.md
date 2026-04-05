@@ -1,6 +1,6 @@
 # Hi 👋, I'm Atul Chavan
 
-💻 DevOps Engineer | AWS | Linux | Networking
+💻 DevOps Engineer | AWS Cloud | Linux | Networking
 🚀 Passionate about Cloud Automation & Infrastructure
 📍 Pune,(Maharastra)
 
