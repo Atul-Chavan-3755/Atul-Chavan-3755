@@ -6,73 +6,73 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-* 🔧 Skilled in **AWS, Docker, Terraform, CI/CD**
-* 🖥️ Strong knowledge of **Linux & Networking**
-* ⚙️ Focused on **automation and scalable systems**
-* 📚 Continuously learning DevOps & Cloud technologies
+*  Skilled in **AWS, Docker, Terraform, CI/CD**
+*  Strong knowledge of **Linux & Networking**
+*  Focused on **automation and scalable systems**
+*  Continuously learning DevOps & Cloud technologies
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
-### ☁️ Cloud
+###  Cloud
 
 * AWS (EC2, S3, VPC, IAM, ALB)
 
-### ⚙️ DevOps Tools
+###  DevOps Tools
 
 * Docker
 * Kubernetes (Learning)
 * Jenkins / GitHub Actions
 
-### 🏗️ Infrastructure as Code
+###  Infrastructure as Code
 
 * Terraform
 
-### 💻 OS & Scripting
+###  OS & Scripting
 
 * Linux
 * Bash Scripting
 
-### 🌐 Networking
+###  Networking
 
 * TCP/IP, DNS, HTTP, HTTPS
 
 ---
 
-## 🚀 Projects
+##  Projects
 
-### 🔹 CI/CD Pipeline with GitHub Actions
+###  CI/CD Pipeline with GitHub Actions
 
 * Automated build & deployment of React applications
 * Dockerized application
 * Deployed on AWS EC2
 
-👉 Repo: https://github.com/Atul-Chavan-3755/React-ci-cd-Actions.git
+ Repo: https://github.com/Atul-Chavan-3755/React-ci-cd-Actions.git
 
 ---
 
-### 🔹 AWS Infrastructure using Terraform
+###  AWS Infrastructure using Terraform
 
 * Created VPC, EC2, ALB using Terraform
 * Infrastructure automation
 
-👉 Repo: https://github.com/Atul-Chavan-3755/terraform-project.git
+ Repo: https://github.com/Atul-Chavan-3755/terraform-project.git
 
 ---
 
-### 🔹 Dockerized Application Deployment
+###  Dockerized Application Deployment
 
 * Containerized app using Docker
 * Deployed and managed containers
 
-👉 Repo: https://github.com/Atul-Chavan-3755/Docker-CI-CD-Project-.git
+ Repo: https://github.com/Atul-Chavan-3755/Docker-CI-CD-Project-.git
 
 ---
 
-## 🌱 Currently Learning
+##  Currently Learning
 
 * Kubernetes
 * Advanced Terraform
@@ -80,7 +80,7 @@
 
 ---
 
-## 📫 Connect with Me
+##  Connect with Me
 
 * LinkedIn: www.linkedin.com/in/atul-chavan-2174b724b
 * Email: atulchavan200@gmail.com
@@ -88,6 +88,6 @@
 
 ---
 
-## ⚡ Fun Fact
+##  Fun Fact
 
-I love automating everything and turning manual tasks into efficient pipelines 🚀
+I love automating everything and turning manual tasks into efficient pipelines 
